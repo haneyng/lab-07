@@ -23,6 +23,11 @@
             android:layout_width="180dp"
             android:layout_height="wrap_content"
             android:text="CLEAR ALL" />
+        <Button
+            android:id="@+id/button_back"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="SHOW ACTIVITY" />
     </LinearLayout>
 
     <ListView
